@@ -16,6 +16,8 @@ into various chess piece categories.
 <a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/50Testing.jpg" align="left" height="150" width="150" ></a>
 <a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/130Testing.jpg" align="left" height="150" width="150" ></a></br>
 
+Sample description on the different images 
+
 
 
 ## Machine Learning 
