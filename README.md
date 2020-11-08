@@ -13,7 +13,7 @@ into various chess piece categories.
 
 ## PCA
 
-![alternativetext](sample/25Testing.jpg)
+<a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/50Testing.jpg" align="left" height="150" width="150" ></a>
 
 
 ## Machine Learning 
