@@ -40,8 +40,8 @@ dataset (test_X) using the determined components.
 
 #### Example
 <a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/pca reduced test.png" align="left" height="300" width="300" ></a>
-<a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/PCA_sample2.png" align="right" height="300" width="300" ></a>
-<a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/Image_4.png" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/PCA_sample2.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="https://github.com/ymtaye/ChessPiecePrediction/blob/main/sample/Image_4.png" align="right" height="300" width="300" ></a>
 
 
 ## Machine Learning 
